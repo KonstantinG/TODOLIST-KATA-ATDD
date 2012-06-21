@@ -1,0 +1,7 @@
+tasks:
+    - !!models.Task
+        label: Clean appartment
+    - !!models.Task
+        label: Wash the dishes
+    - !!models.Task
+        label: Buy some food

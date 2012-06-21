@@ -1,0 +1,8 @@
+User Story 1:
+As a user I want to get list of tasks So that I can get understanding of my todolist of tasks.
+
+User Story 2:
+As user I want to delete my tasks So that I can see only my current tasks.
+
+User Story 3:
+As user I want to add new tasks in the list So that I can stop worry about forgetting them.

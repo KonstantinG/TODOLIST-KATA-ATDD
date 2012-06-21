@@ -1,0 +1,10 @@
+@(tasks: List [Task] )
+
+@main("Welcome to Play 2.0") {
+    <h1>You have @tasks.size() tasks!</h1>
+    <ul>
+    @for(task <- tasks){
+        <li>@task.label</li>
+    }
+    </ul>
+}

@@ -1,0 +1,9 @@
+@(tasks: List [Task] )
+
+@main("Welcome to Play 2.0") {
+
+    @for(task <- tasks){
+        @task.label
+    }
+    
+}
